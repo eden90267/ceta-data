@@ -1,0 +1,582 @@
+{
+  "ad": {
+    "statusCode": 200,
+    "success": true,
+    "error": "",
+    "result": {
+      "b_776": {
+        "content": {
+          "id": "100",
+          "spec_type": "16",
+          "type": "1",
+          "init_pic_filename": "",
+          "push_pic_filename": "",
+          "default_pic_filename": "",
+          "link": "",
+          "outside_link": ""
+        }
+      },
+      "b_777": {
+        "content": [
+          {
+            "id": "60",
+            "spec_type": "11",
+            "type": "1",
+            "param_click": "click_1_145_777_11_60",
+            "param_view": "view_1_145_777_11_60",
+            "pic_filename": "http://aidma.s104.com.tw/test/img/banner_260X210.gif",
+            "link": "http://www.104.com.tw/cfdocs/project/1712/171214_micron_hr/index.html",
+            "outside_link": "0"
+          },
+          {
+            "id": "61",
+            "spec_type": "11",
+            "type": "1",
+            "param_click": "click_1_145_777_11_61",
+            "param_view": "view_1_145_777_11_61",
+            "pic_filename": "http://aidma.s104.com.tw/test/img/banner_260X210_2.jpg",
+            "link": "http://www.104.com.tw/cfdocs/project/1712/171204_iii_hr/p3.html",
+            "outside_link": "0"
+          }
+        ]
+      },
+      "b_782": {
+        "content": [
+          {
+            "id": "62",
+            "spec_type": "11",
+            "type": "1",
+            "param_click": "click_1_145_779_11_62",
+            "param_view": "view_1_145_779_11_62",
+            "pic_filename": "http://aidma.s104.com.tw/test/img/banner_500x260_1.jpg",
+            "link": "https://www.104.com.tw/cfdocs/project/1711/171124_delta_hr/index.html",
+            "outside_link": "0"
+          },
+          {
+            "id": "63",
+            "spec_type": "11",
+            "type": "1",
+            "param_click": "click_1_145_779_11_63",
+            "param_view": "view_1_145_779_11_63",
+            "pic_filename": "http://aidma.s104.com.tw/test/img/banner_500x260_2.jpg",
+            "link": "http://www.104.com.tw/cfdocs/project/1712/171019_Starbucks_hr_3/index.html",
+            "outside_link": "0"
+          }
+        ]
+      },
+      "b_779": {
+        "content": [
+          {
+            "id": "64",
+            "spec_type": "11",
+            "type": "1",
+            "param_click": "click_1_145_782_11_64",
+            "param_view": "view_1_145_782_11_64",
+            "pic_filename": "http://aidma.s104.com.tw/test/img/banner_500x260_3.jpg",
+            "link": "https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=3c3a426e4c363e673c423a1d1d1d1d5f2443a363189j99",
+            "outside_link": "0"
+          },
+          {
+            "id": "65",
+            "spec_type": "11",
+            "type": "1",
+            "param_click": "click_1_145_782_11_65",
+            "param_view": "view_1_145_782_11_65",
+            "pic_filename": "http://aidma.s104.com.tw/test/img/banner_500x260_4.jpg",
+            "link": "https://www.104.com.tw/cfdocs/project/1708/170802_family_hr_ma/index.html",
+            "outside_link": "0"
+          }
+        ]
+      },
+      "b_780": {
+        "content": [
+          {
+            "id": "64",
+            "spec_type": "11",
+            "type": "1",
+            "param_click": "click_1_145_779_11_64",
+            "param_view": "view_1_145_779_11_64",
+            "pic_filename": "http://aidma.s104.com.tw/test/img/1024X120_1.jpg",
+            "link": "https://www.104.com.tw/cfdocs/project/1709/170929_formosa_hr/index.html",
+            "outside_link": "0"
+          },
+          {
+            "id": "65",
+            "spec_type": "11",
+            "type": "1",
+            "param_click": "click_1_145_779_11_65",
+            "param_view": "view_1_145_779_11_65",
+            "pic_filename": "http://aidma.s104.com.tw/test/img/1024X120_2.jpg",
+            "link": "http://www.104.com.tw/cfdocs/project/1710/171013_kla_hr/index.html",
+            "outside_link": "0"
+          }
+        ]
+      },
+      "b_781": {
+        "content": [
+          {
+            "id": "101",
+            "spec_type": "14",
+            "type": "1",
+            "param_click": "click_1_145_781_14_101",
+            "param_view": "view_1_145_781_14_101",
+            "pic_filename": "http://aidma.s104.com.tw/test/img/logo_120x80_1.gif",
+            "link": "https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=5060426c5e363f6840323c1d1d1d1d5f2443a363189j48&jobsource=ipochb18",
+            "outside_link": "0"
+          },
+          {
+            "id": "102",
+            "spec_type": "14",
+            "type": "1",
+            "param_click": "click_1_145_781_14_102",
+            "param_view": "view_1_145_781_14_102",
+            "pic_filename": "http://aidma.s104.com.tw/test/img/logo_120x80_2.gif",
+            "link": "https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=5060426c5e363f6840323c1d1d1d1d5f2443a363189j48&jobsource=ipochb18",
+            "outside_link": "0"
+          },
+          {
+            "id": "103",
+            "spec_type": "14",
+            "type": "1",
+            "param_click": "click_1_145_781_14_103",
+            "param_view": "view_1_145_781_14_103",
+            "pic_filename": "http://aidma.s104.com.tw/test/img/logo_120x80_3.gif",
+            "link": "https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=5060426c5e363f6840323c1d1d1d1d5f2443a363189j48&jobsource=ipochb18",
+            "outside_link": "0"
+          },
+          {
+            "id": "104",
+            "spec_type": "14",
+            "type": "1",
+            "param_click": "click_1_145_781_14_104",
+            "param_view": "view_1_145_781_14_104",
+            "pic_filename": "http://aidma.s104.com.tw/test/img/logo_120x80_4.gif",
+            "link": "https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=5060426c5e363f6840323c1d1d1d1d5f2443a363189j48&jobsource=ipochb18",
+            "outside_link": "0"
+          },
+          {
+            "id": "105",
+            "spec_type": "14",
+            "type": "1",
+            "param_click": "click_1_145_781_14_105",
+            "param_view": "view_1_145_781_14_105",
+            "pic_filename": "http://aidma.s104.com.tw/test/img/logo_120x80_5.gif",
+            "link": "https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=5060426c5e363f6840323c1d1d1d1d5f2443a363189j48&jobsource=ipochb18",
+            "outside_link": "0"
+          },
+          {
+            "id": "106",
+            "spec_type": "14",
+            "type": "1",
+            "param_click": "click_1_145_781_14_106",
+            "param_view": "view_1_145_781_14_106",
+            "pic_filename": "http://aidma.s104.com.tw/test/img/logo_120x80_6.gif",
+            "link": "https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=5060426c5e363f6840323c1d1d1d1d5f2443a363189j48&jobsource=ipochb18",
+            "outside_link": "0"
+          },
+          {
+            "id": "107",
+            "spec_type": "14",
+            "type": "1",
+            "param_click": "click_1_145_781_14_107",
+            "param_view": "view_1_145_781_14_107",
+            "pic_filename": "http://aidma.s104.com.tw/test/img/logo_120x80_7.gif",
+            "link": "https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=5060426c5e363f6840323c1d1d1d1d5f2443a363189j48&jobsource=ipochb18",
+            "outside_link": "0"
+          },
+          {
+            "id": "108",
+            "spec_type": "14",
+            "type": "1",
+            "param_click": "click_1_145_781_14_108",
+            "param_view": "view_1_145_781_14_108",
+            "pic_filename": "http://aidma.s104.com.tw/test/img/logo_120x80_8.gif",
+            "link": "https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=5060426c5e363f6840323c1d1d1d1d5f2443a363189j48&jobsource=ipochb18",
+            "outside_link": "0"
+          },
+          {
+            "id": "109",
+            "spec_type": "14",
+            "type": "1",
+            "param_click": "click_1_145_781_14_109",
+            "param_view": "view_1_145_781_14_109",
+            "pic_filename": "http://aidma.s104.com.tw/test/img/logo_120x80_9.gif",
+            "link": "https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=5060426c5e363f6840323c1d1d1d1d5f2443a363189j48&jobsource=ipochb18",
+            "outside_link": "0"
+          },
+          {
+            "id": "110",
+            "spec_type": "14",
+            "type": "1",
+            "param_click": "click_1_145_781_14_110",
+            "param_view": "view_1_145_781_14_110",
+            "pic_filename": "http://aidma.s104.com.tw/test/img/logo_120x80_10.gif",
+            "link": "https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=5060426c5e363f6840323c1d1d1d1d5f2443a363189j48&jobsource=ipochb18",
+            "outside_link": "0"
+          },
+          {
+            "id": "111",
+            "spec_type": "14",
+            "type": "1",
+            "param_click": "click_1_145_781_14_111",
+            "param_view": "view_1_145_781_14_111",
+            "pic_filename": "http://aidma.s104.com.tw/test/img/logo_120x80_11.gif",
+            "link": "https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=5060426c5e363f6840323c1d1d1d1d5f2443a363189j48&jobsource=ipochb18",
+            "outside_link": "0"
+          },
+          {
+            "id": "112",
+            "spec_type": "14",
+            "type": "1",
+            "param_click": "click_1_145_781_14_112",
+            "param_view": "view_1_145_781_14_112",
+            "pic_filename": "http://aidma.s104.com.tw/test/img/logo_120x80_12.gif",
+            "link": "https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=5060426c5e363f6840323c1d1d1d1d5f2443a363189j48&jobsource=ipochb18",
+            "outside_link": "0"
+          },
+          {
+            "id": "113",
+            "spec_type": "14",
+            "type": "1",
+            "param_click": "click_1_145_781_14_113",
+            "param_view": "view_1_145_781_14_113",
+            "pic_filename": "http://aidma.s104.com.tw/test/img/logo_120x80_13.gif",
+            "link": "https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=5060426c5e363f6840323c1d1d1d1d5f2443a363189j48&jobsource=ipochb18",
+            "outside_link": "0"
+          },
+          {
+            "id": "114",
+            "spec_type": "14",
+            "type": "1",
+            "param_click": "click_1_145_781_14_114",
+            "param_view": "view_1_145_781_14_114",
+            "pic_filename": "http://aidma.s104.com.tw/test/img/logo_120x80_14.gif",
+            "link": "https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=5060426c5e363f6840323c1d1d1d1d5f2443a363189j48&jobsource=ipochb18",
+            "outside_link": "0"
+          }
+        ]
+      },
+      "b_784": {
+        "content": [
+          {
+            "id": "201",
+            "spec_type": "17",
+            "param_click": "click_1_145_784_17_201",
+            "param_view": "view_1_145_784_17_201",
+            "pic_filename": "http://aidma.s104.com.tw/test/img/banner_240X140_1.jpg",
+            "title": "全家便利商店",
+            "word": "就近分配鄰近門市，上下班很近<br>彈性排班，有三時段可挑<br>依表現有不同薪資級距調整。",
+            "link": "http://www.104.com.tw/cfdocs/project/1707/170703_family_hr_pt/index.html?jobsource=ipochotstar18",
+            "outside_link": "0",
+            "tag1": "門市計時人員",
+            "tag1_link": "https://www.104.com.tw/job/?jobno=4r00z&jobsource=ipochotstar18",
+            "tag1_outside_link": "0",
+            "tag2": "",
+            "tag2_link": "",
+            "tag2_outside_link": ""
+          },
+          {
+            "id": "202",
+            "spec_type": "17",
+            "param_click": "click_1_145_784_17_202",
+            "param_view": "view_1_145_784_17_202",
+            "pic_filename": "http://aidma.s104.com.tw/test/img/banner_240X140_3.jpg",
+            "title": "中國信託商業銀行",
+            "word": "中國信託屢獲國內外重要獎項肯定<br>榮獲天下雜誌金牌服務業銀行類第一<br>誠摯邀請您，加入我們的行列！",
+            "link": "http://www.104.com.tw/jb/service/ad/TransferAddress?trnid=adn_40513&jobsource=ipochotstar18",
+            "outside_link": "0",
+            "tag1": "信貸電銷專員",
+            "tag1_link": "https://www.104.com.tw/job/?jobno=4gocq&jobsource=ipochotstar18",
+            "tag1_outside_link": "0",
+            "tag2": "法令遵循人員",
+            "tag2_link": "https://www.104.com.tw/job/?jobno=5b93u&jobsource=ipochotstar18",
+            "tag2_outside_link": "0"
+          }
+        ]
+      },
+      "b_785": {
+        "content": [
+          {
+            "id": "203",
+            "spec_type": "17",
+            "param_click": "click_1_145_785_17_203",
+            "param_view": "view_1_145_785_17_203",
+            "pic_filename": "http://aidma.s104.com.tw/test/img/banner_240X140_5.jpg",
+            "title": "Sisley",
+            "word": "來自法國專業植物美容保養代表品牌<br>挑戰百萬年薪，打造頂級人生！<br>超優渥員工免費公司產品",
+            "link": "http://www.104.com.tw/jb/service/ad/TransferAddress?trnid=adn_40537&jobsource=ipochotstar18",
+            "outside_link": "0",
+            "tag1": "儲備櫃長/顧問",
+            "tag1_link": "https://www.104.com.tw/job/?jobno=5fgy3&jobsource=ipochotstar18",
+            "tag1_outside_link": "0",
+            "tag2": "芳療護膚師",
+            "tag2_link": "https://www.104.com.tw/job/?jobno=41z7z&jobsource=ipochotstar18",
+            "tag2_outside_link": "0"
+          },
+          {
+            "id": "204",
+            "spec_type": "17",
+            "param_click": "click_1_145_785_17_204",
+            "param_view": "view_1_145_785_17_204",
+            "pic_filename": "http://aidma.s104.com.tw/test/img/banner_240X140_7.jpg",
+            "title": "玉山銀行",
+            "word": "提供全方位優質服務與品牌承諾而努力<br>完善的教育訓練制度、年終獎金與紅利<br>行員優惠存款、貸款及持股信託基金",
+            "link": "https://hr.esunfhc.com/StaffAcquisition/hireexam/EliteDetail/7?jobsource=ipochotstar18",
+            "outside_link": "0",
+            "tag1": "APP軟體工程師",
+            "tag1_link": "https://www.104.com.tw/job/?jobno=4a1iw&jobsource=ipochotstar18",
+            "tag1_outside_link": "0",
+            "tag2": "",
+            "tag2_link": "",
+            "tag2_outside_link": ""
+          }
+        ]
+      },
+      "b_786": {
+        "content": [
+          {
+            "id": "205",
+            "spec_type": "17",
+            "param_click": "click_1_145_786_17_205",
+            "param_view": "view_1_145_786_17_205",
+            "pic_filename": "http://aidma.s104.com.tw/test/img/banner_240X140_2.jpg",
+            "title": "康健人壽",
+            "word": "外商公司制度健全，無經驗可<br>可不需跑外勤，不動用人脈<br>無業績不倒扣，福利超優",
+            "link": "https://hr.esunfhc.com/StaffAcquisition/hireexam/EliteDetail/7?jobsource=ipochotstar18",
+            "outside_link": "0",
+            "tag1": "新竹電銷專員",
+            "tag1_link": "https://www.104.com.tw/job/?jobno=5ap2s&jobsource=ipochotstar18",
+            "tag1_outside_link": "0",
+            "tag2": "高雄電銷專員",
+            "tag2_link": "https://www.104.com.tw/job/?jobno=5ap37&jobsource=ipochotstar18",
+            "tag2_outside_link": "0"
+          },
+          {
+            "id": "206",
+            "spec_type": "17",
+            "param_click": "click_1_145_786_17_206",
+            "param_view": "view_1_145_786_17_206",
+            "pic_filename": "http://aidma.s104.com.tw/test/img/banner_240X140_4.jpg",
+            "title": "世界先進",
+            "word": "研發替代役與技術員招募中<br>享自我推薦獎金15,000元<br>歡迎想進入半導體產業的您",
+            "link": "http://www.104.com.tw/cfdocs/project/1712/171120_vis_hr/index.html?jobsource=ipochotstar18",
+            "outside_link": "0",
+            "tag1": "製造工程師",
+            "tag1_link": "https://www.104.com.tw/job/?jobno=5ppsr&jobsource=ipochotstar18",
+            "tag1_outside_link": "0",
+            "tag2": "日/夜班技術員",
+            "tag2_link": "https://www.104.com.tw/job/?jobno=e46s&jobsource=ipochotstar18",
+            "tag2_outside_link": "0"
+          }
+        ]
+      },
+      "b_787": {
+        "content": [
+          {
+            "id": "207",
+            "spec_type": "17",
+            "param_click": "click_1_145_787_17_207",
+            "param_view": "view_1_145_787_17_207",
+            "pic_filename": "http://aidma.s104.com.tw/test/img/banner_240X140_6.jpg",
+            "title": "寶成國際集團",
+            "word": "世界最大製鞋集團<br>富比世50大亞太最佳企業<br>加入寶成，給您無限可能",
+            "link": "http://www.104.com.tw/cfdocs/project/1712/171218_pouchen_hr/index.html?jobsource=ipochotstar18",
+            "outside_link": "0",
+            "tag1": "品管工程師",
+            "tag1_link": "https://www.104.com.tw/job/?jobno=4m5ig&jobsource=ipochotstar18",
+            "tag1_outside_link": "0",
+            "tag2": "品管基層主管",
+            "tag2_link": "https://www.104.com.tw/job/?jobno=4ld7i&jobsource=ipochotstar18",
+            "tag2_outside_link": "0"
+          },
+          {
+            "id": "208",
+            "spec_type": "17",
+            "param_click": "click_1_145_787_17_208",
+            "param_view": "view_1_145_787_17_208",
+            "pic_filename": "http://aidma.s104.com.tw/test/img/banner_240X140_7.jpg",
+            "title": "玉山銀行",
+            "word": "提供全方位優質服務與品牌承諾而努力<br>完善的教育訓練制度、年終獎金與紅利<br>行員優惠存款、貸款及持股信託基金",
+            "link": "https://hr.esunfhc.com/StaffAcquisition/hireexam/EliteDetail/7?jobsource=ipochotstar18",
+            "outside_link": "0",
+            "tag1": "APP軟體工程師",
+            "tag1_link": "https://www.104.com.tw/job/?jobno=4a1iw&jobsource=ipochotstar18",
+            "tag1_outside_link": "0",
+            "tag2": "",
+            "tag2_link": "",
+            "tag2_outside_link": ""
+          }
+        ]
+      },
+      "b_783": {
+        "content": [
+          {
+            "id": "301",
+            "spec_type": "18",
+            "param_click": "click_1_145_783_18_301",
+            "param_view": "view_1_145_783_18_301",
+            "pic_filename": "http://aidma.s104.com.tw/test/img/banner_520x400.png",
+            "init_pic_filename": "https://fakeimg.pl/250x80/eaecef/?text=init-pic",
+            "logo_pic_filename": "https://fakeimg.pl/119x43/eaecef/?text=logo-pic",
+            "logo_pic_link": "",
+            "logo_pic_outside_link": "",
+            "title": "【全家集團聯合徵才】歡迎你的加入",
+            "title_link": "http://www.104.com.tw/cfdocs/project/1712/171228_family/page3.html",
+            "title_outside_link": "0",
+            "word": "",
+            "word_link": "",
+            "word_outside_link": "0",
+            "tag1": "全家國際餐飲 大戶屋大安店-外場正職",
+            "tag1_link": "https://www.104.com.tw/job/?jobno=59f0i&jobsource=idujob1",
+            "tag1_outside_link": "0",
+            "tag2": "福比麵包 幸福麵包場製作員(新竹新豐)",
+            "tag2_link": "https://www.104.com.tw/job/?jobno=50sto&jobsource=idujob1",
+            "tag2_outside_link": "0",
+            "tag3": "全台物流 企劃專員",
+            "tag3_link": "https://www.104.com.tw/job/?jobno=5vgjq&jobsource=idujob1",
+            "tag3_outside_link": "0",
+            "tag4": "日翊文化 物流專員",
+            "tag4_link": "https://www.104.com.tw/job/?jobno=5tqm8&jobsource=idujob1",
+            "tag4_outside_link": "0",
+            "text1": "北區+中區",
+            "text2": "日商公司",
+            "extra_link": "http://www.104.com.tw/cfdocs/project/1712/171228_family/page3.html",
+            "extra_outside_link": "0"
+          },
+          {
+            "id": "302",
+            "spec_type": "18",
+            "param_click": "click_1_145_783_18_302",
+            "param_view": "view_1_145_783_18_302",
+            "pic_filename": "https://fakeimg.pl/520x400/eaecef/?text=2",
+            "init_pic_filename": "http://aidma.s104.com.tw/test/img/banner_250x80_1.jpg",
+            "logo_pic_filename": "http://aidma.s104.com.tw/test/img/logo_119x43_1.gif",
+            "logo_pic_link": "http://www.104.com.tw/cfdocs/project/1712/171208_terapower_hr/index.html",
+            "logo_pic_outside_link": "0",
+            "title": "晶兆成科技股份有限公司",
+            "title_link": "http://www.104.com.tw/cfdocs/project/1712/171208_terapower_hr/index.html",
+            "title_outside_link": "0",
+            "word": "我們積極延攬各方菁英，希冀與我們一同開創測試新世代！",
+            "word_link": "http://www.104.com.tw/cfdocs/project/1712/171208_terapower_hr/index.html",
+            "word_outside_link": "0",
+            "tag1": "常日設備工程師",
+            "tag1_link": "https://www.104.com.tw/job/?jobno=4xr0g&jobsource=idujob1",
+            "tag1_outside_link": "0",
+            "tag2": "輪班設備工程師(FT)",
+            "tag2_link": "https://www.104.com.tw/job/?jobno=4ozdm&jobsource=idujob1",
+            "tag2_outside_link": "0",
+            "tag3": "產品工程師",
+            "tag3_link": "https://www.104.com.tw/job/?jobno=3uy64&jobsource=idujob1",
+            "tag3_outside_link": "0",
+            "tag4": "資訊工程師(system)",
+            "tag4_link": "https://www.104.com.tw/job/?jobno=5qmom&jobsource=idujob1",
+            "tag4_outside_link": "0",
+            "text1": "新竹縣",
+            "text2": "半導體製造業",
+            "extra_link": "https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=4c60426b5a6c3e2056583a1d1d1d1d5f2443a363189j99&jobsource=idujob1&page=1#info06",
+            "extra_outside_link": "0"
+          },
+          {
+            "id": "303",
+            "spec_type": "18",
+            "param_click": "click_1_145_783_18_303",
+            "param_view": "view_1_145_783_18_303",
+            "pic_filename": "https://fakeimg.pl/520x400/eaecef/?text=3",
+            "init_pic_filename": "http://aidma.s104.com.tw/test/img/banner_250x80_2.jpg",
+            "logo_pic_filename": "http://aidma.s104.com.tw/test/img/logo_119x43_2.gif",
+            "logo_pic_link": "http://www.104.com.tw/cfdocs/project/1712/171204_shiseido_hr/index.html",
+            "logo_pic_outside_link": "0",
+            "title": "資生堂",
+            "title_link": "http://www.104.com.tw/cfdocs/project/1712/171204_shiseido_hr/index.html",
+            "title_outside_link": "0",
+            "word": "培訓期間即提供完整的福利，希望你在這裡用心領略美好的力量！",
+            "word_link": "http://www.104.com.tw/cfdocs/project/1712/171204_shiseido_hr/index.html",
+            "word_outside_link": "0",
+            "tag1": "美容顧問(大台北地區)",
+            "tag1_link": "https://www.104.com.tw/job/?jobno=2iz4k&jobsource=idujob1",
+            "tag1_outside_link": "0",
+            "tag2": "美容顧問(桃園地區)",
+            "tag2_link": "https://www.104.com.tw/job/?jobno=3ln94&jobsource=idujob1",
+            "tag2_outside_link": "0",
+            "tag3": "美容顧問(台中地區)",
+            "tag3_link": "https://www.104.com.tw/job/?jobno=3ln97&jobsource=idujob1",
+            "tag3_outside_link": "0",
+            "tag4": "美容顧問(彰化員林地區)",
+            "tag4_link": "https://www.104.com.tw/job/?jobno=3qzif&jobsource=idujob1",
+            "tag4_outside_link": "0",
+            "text1": "台北市",
+            "text2": "化妝品零售業",
+            "extra_link": "http://www.104.com.tw/cfdocs/project/1712/171204_shiseido_hr/index.html",
+            "extra_outside_link": "0"
+          },
+          {
+            "id": "304",
+            "spec_type": "18",
+            "param_click": "click_1_145_783_18_304",
+            "param_view": "view_1_145_783_18_304",
+            "pic_filename": "https://fakeimg.pl/520x400/eaecef/?text=4",
+            "init_pic_filename": "http://aidma.s104.com.tw/test/img/banner_250x80_3.jpg",
+            "logo_pic_filename": "http://aidma.s104.com.tw/test/img/logo_119x43_3.gif",
+            "logo_pic_link": "https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=5e7042275e363f6840323c1d1d1d1d5f2443a363189j01&jobsource=idujob1",
+            "logo_pic_outside_link": "0",
+            "title": "友達光電股份有限公司",
+            "title_link": "https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=5e7042275e363f6840323c1d1d1d1d5f2443a363189j01&jobsource=idujob1",
+            "title_outside_link": "0",
+            "word": "全球光電解決方案領導廠商，營運據點遍及海內外多個國家！",
+            "word_link": "https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=5e7042275e363f6840323c1d1d1d1d5f2443a363189j01&jobsource=idujob1",
+            "word_outside_link": "0",
+            "tag1": "製程/設備技師(后里旗艦廠)",
+            "tag1_link": "https://www.104.com.tw/job/?jobno=33x64&jobsource=idujob1",
+            "tag1_outside_link": "0",
+            "tag2": "測試整合技師(后里旗艦廠)",
+            "tag2_link": "https://www.104.com.tw/job/?jobno=5lwph&jobsource=idujob1",
+            "tag2_outside_link": "0",
+            "tag3": "生產技術員(后里旗艦廠)",
+            "tag3_link": "https://www.104.com.tw/job/?jobno=33x48&jobsource=idujob1",
+            "tag3_outside_link": "0",
+            "tag4": "數位IC設計工程師(華亞廠)",
+            "tag4_link": "https://www.104.com.tw/job/?jobno=3kg8o&jobsource=idujob1",
+            "tag4_outside_link": "0",
+            "text1": "新竹市",
+            "text2": "光學器材製造業",
+            "extra_link": "https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=5e7042275e363f6840323c1d1d1d1d5f2443a363189j01&jobsource=idujob1",
+            "extra_outside_link": "0"
+          },
+          {
+            "id": "305",
+            "spec_type": "18",
+            "param_click": "click_1_145_783_18_305",
+            "param_view": "view_1_145_783_18_305",
+            "pic_filename": "https://fakeimg.pl/520x400/eaecef/?text=5",
+            "init_pic_filename": "http://aidma.s104.com.tw/test/img/banner_250x80_4.jpg",
+            "logo_pic_filename": "http://aidma.s104.com.tw/test/img/logo_119x43_4.gif",
+            "logo_pic_link": "https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=4f6749753b3d475d3839416a4b453e68647774a30534d47282828286a3f682d2c917j02&jobsource=idujob1",
+            "logo_pic_outside_link": "0",
+            "title": "東京威力科創股份有限公司",
+            "title_link": "https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=4f6749753b3d475d3839416a4b453e68647774a30534d47282828286a3f682d2c917j02&jobsource=idujob1",
+            "title_outside_link": "0",
+            "word": "全球第二大半導體設備商，以追求世界最高技術水準為目標。",
+            "word_link": "https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=4f6749753b3d475d3839416a4b453e68647774a30534d47282828286a3f682d2c917j02&jobsource=idujob1",
+            "word_outside_link": "0",
+            "tag1": "契約助理工程師(新竹)",
+            "tag1_link": "https://www.104.com.tw/job/?jobno=54b3u&jobsource=idujob1",
+            "tag1_outside_link": "0",
+            "tag2": "Technical Support Engineer",
+            "tag2_link": "https://www.104.com.tw/job/?jobno=48wrj&jobsource=idujob1",
+            "tag2_outside_link": "0",
+            "tag3": "Process Engineer",
+            "tag3_link": "https://www.104.com.tw/job/?jobno=3y5ib&jobsource=idujob1",
+            "tag3_outside_link": "0",
+            "tag4": "契約助理工程師(台中)",
+            "tag4_link": "https://www.104.com.tw/job/?jobno=4s5ub&jobsource=idujob1",
+            "tag4_outside_link": "0",
+            "text1": "新竹市",
+            "text2": "半導體產業",
+            "extra_link": "https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=504a436d3c6c3f2548423c1d1d1d1d5f2443a363189j48&jobsource=idujob1&page=1#info06",
+            "extra_outside_link": "0"
+          }
+        ]
+      }
+    }
+  }
+}
